@@ -72,4 +72,4 @@ MapStruct
 PostgreSQL Driver (or any database driver of your choice)
 Spring Boot Starter Test (for testing)
 Contributing
-Contributions are welcome! If you find any issues or have suggestions for improvements, feel free to open an issue or create a pull request.
+Contributions are welcome! If you find any issues or have suggestions for improvements, feel free to open an issue or create a pull request...
